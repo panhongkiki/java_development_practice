@@ -12,6 +12,7 @@ public class Demo {
         Map<String, List<String>> groups = list.stream()
                 .collect(Collectors.groupingBy(s -> s.substring(0, 1), Collectors.toList()));
         System.out.println(groups);
+        System.out.println(groups);
     }
 }
 
