@@ -13,6 +13,7 @@ public class Demo {
                 .collect(Collectors.groupingBy(s -> s.substring(0, 1), Collectors.toList()));
         System.out.println(groups);
         System.out.println(groups);
+        System.out.println(groups);
     }
 }
 
