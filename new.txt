@@ -1,1 +1,2 @@
 这是一段文本。
+Creating a new branch is quick & simple.
